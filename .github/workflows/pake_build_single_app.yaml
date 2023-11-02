@@ -17,7 +17,7 @@ on:
       url:
         description: 'app url'
         required: true
-        default: 'https://twitter.com/'
+        default: 'https://vcamera.top/'
   workflow_call:
     inputs:
       name:
